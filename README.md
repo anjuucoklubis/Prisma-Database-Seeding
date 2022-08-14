@@ -1,1 +1,1 @@
-# Prisma-Database-Seeding
+# Prisma-Schema
